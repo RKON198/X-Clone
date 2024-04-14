@@ -1,1 +1,1 @@
-export const ApiUrl = 'http://localhost:3000';
+export const ApiUrl = 'https://x-clone-ald6.onrender.com/';
